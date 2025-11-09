@@ -79,3 +79,4 @@ It contains **6 relational tables** connected through primary and foreign keys.
 ##  Project Type  
 `MySQL Workbench | Data Analysis | Tourism Analytics | SQL`  
 
+⭐ If you found this project insightful, consider giving it a star on GitHub! 🌟
