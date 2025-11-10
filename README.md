@@ -3,7 +3,7 @@
 
 > Not Important but still putting out My D’Lightful Tours & Travels Hypothetical Company Name Made
 > 
-> The name **D’Lightful** is inspired by my name *Dipti* —  
+> The name **D’Lightful** is inspired by my name *Dipti* -
 > **“D”** from *Dipti* and **“Light”** from its meaning, symbolizing brightness and joy.  
 > **“Full”** represents completeness and happiness, together forming *D’Lightful*,  
 > a name that reflects **joy, positivity, and memorable travel experiences.**
